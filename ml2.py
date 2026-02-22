@@ -14,5 +14,14 @@
 # #1. variable name must start with a letter or underscore
 # #2. variable name can contain letters, numbers, and underscores
 # #3. variable name cannot start with a number
-import random
-print(random.randint(1, 10))
+# import random
+# print(random.randint(1, 10))
+#terminal theke input
+# name = input("Enter your name: ")
+# print("Hello, " + name + "!")
+#logical operator
+x = 5
+y = 10
+if x < y and y > 0:
+    print("x is less than y and y is greater than 0")
+
